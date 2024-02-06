@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.f427cc29.css",
-    "main.js": "/portfolio/static/js/main.b9d9a44d.js",
+    "main.css": "/portfolio/static/css/main.7d8c1258.css",
+    "main.js": "/portfolio/static/js/main.717c7743.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/i9.jpg": "/portfolio/static/media/i9.5c26f376e368961c0a7c.jpg",
     "static/media/i14.jpg": "/portfolio/static/media/i14.e0105afed7c178d63f99.jpg",
@@ -28,12 +28,12 @@
     "static/media/aircanada.svg": "/portfolio/static/media/aircanada.2c9ac6be4943d8367ca7dcf0466cd4b7.svg",
     "static/media/visa2.svg": "/portfolio/static/media/visa2.a832f682ed43e496bcbeebb6f2aa31e1.svg",
     "index.html": "/portfolio/index.html",
-    "main.f427cc29.css.map": "/portfolio/static/css/main.f427cc29.css.map",
-    "main.b9d9a44d.js.map": "/portfolio/static/js/main.b9d9a44d.js.map",
+    "main.7d8c1258.css.map": "/portfolio/static/css/main.7d8c1258.css.map",
+    "main.717c7743.js.map": "/portfolio/static/js/main.717c7743.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f427cc29.css",
-    "static/js/main.b9d9a44d.js"
+    "static/css/main.7d8c1258.css",
+    "static/js/main.717c7743.js"
   ]
 }
